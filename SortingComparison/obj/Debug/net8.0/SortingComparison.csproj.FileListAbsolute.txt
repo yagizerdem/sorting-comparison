@@ -1,0 +1,14 @@
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\bin\Debug\net8.0\SortingComparison.exe
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\bin\Debug\net8.0\SortingComparison.deps.json
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\bin\Debug\net8.0\SortingComparison.runtimeconfig.json
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\bin\Debug\net8.0\SortingComparison.dll
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\bin\Debug\net8.0\SortingComparison.pdb
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.AssemblyInfoInputs.cache
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.AssemblyInfo.cs
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.csproj.CoreCompileInputs.cache
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.dll
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\refint\SortingComparison.dll
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.pdb
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\SortingComparison.genruntimeconfig.cache
+C:\Users\yagiz\Desktop\SortingComparison\SortingComparison\obj\Debug\net8.0\ref\SortingComparison.dll
